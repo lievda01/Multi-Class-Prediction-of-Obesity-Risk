@@ -1,4 +1,4 @@
-# Multi-Class-Prediction-of-Obesity-Risk
+# Multi-Class Prediction of Obesity Risk
 ## Overview
 
 The following repositry contains an analysis about the possible factors that play an important role in influencing a higher obesity risk.
