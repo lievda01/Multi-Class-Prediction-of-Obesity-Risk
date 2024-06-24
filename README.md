@@ -53,7 +53,7 @@ The idea of including PCA was to analyze whether using this technique before per
 
 As we can see, among all three models, XGBoost does a better job with overall higher results for accuracy, precision and recall. In terms of the Logistic Regression, it falls behind the XGBoost in terms of the previously mentioned metrics but it is close. Interestingly, when we apply PCA and then run a Logistic Regression, the accuracy drops notably. This is happening since for all models Height, Weight and Age play an important role to determining the Obesity Risk category and PCA is not able to find good combinations to create components that can explain the variance in the data.
 
-For this particular problem, XGBoost showed the best performance.
+For this particular problem, XGBoost showed the best performance achieving a 90% accuracy, precision and recall.
 
 ## References
 
